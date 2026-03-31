@@ -1,8 +1,8 @@
 [repository]
 REGISTRY_NAME = "tauffer-consulting"
 
-REPOSITORY_NAME = "default_library_blocks"
-REPOSITORY_LABEL = "Default Library Repository"
+REPOSITORY_NAME = "basic_library_blocks"
+REPOSITORY_LABEL = "Basic Library Repository"
 
 VERSION = "0.8.1"
 
