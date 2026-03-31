@@ -2,7 +2,7 @@
 REGISTRY_NAME = "tauffer-consulting"
 
 REPOSITORY_NAME = "basic_library_blocks"
-REPOSITORY_LABEL = "Basic Library Repository"
+REPOSITORY_LABEL = "Basic Library Blocks"
 
 VERSION = "0.8.1"
 
